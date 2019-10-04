@@ -1,6 +1,6 @@
 #include<stdio.h>
-main()
+int main()
 {
-  printf("hi");
-  exit(0);
+  printf("hi this is sample text ");
+  exit (0);
 }
